@@ -1,0 +1,17 @@
+streamlit
+whisper
+torch
+torchaudio
+transformers
+sqlalchemy
+passlib[bcrypt]==1.7.4
+librosa
+soundfile
+numpy
+pandas
+pyaudio
+scipy
+ffmpeg-python
+sentence-transformers
+huggingface-hub
+safetensors
