@@ -5,4 +5,5 @@ Developed an offline pipeline for real-time meeting transcription and summarizat
 
 <video src="Demo_video/Enhanced Audio Transcription and 1 more page - Personal - Microsoft​ Edge 2025-07-10 20-15-00.mp4" controls width="600"></video>
 
-[![Watch the demo](Demo_video/Enhanced Audio Transcription and 1 more page - Personal - Microsoft​ Edge 2025-07-10 20-15-00.mp4)
+[Watch Demo Video](Demo/demo.mp4)
+
